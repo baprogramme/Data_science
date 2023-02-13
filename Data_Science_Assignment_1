@@ -25,8 +25,9 @@ Ans :- Maximum possible length of an identifier in Python is 75.
 13. What are the benefits of using Python ?
 Ans :- Presence of various modules,Extensive support libraries,Open source,Easy to read, learn and write,High-level language 
 14. How is memory managed in Python ?
-Ans :-
+Ans :-Python uses a part of memory for internal use and non-object memory and another part of the memory is used for Python object such as int, dict, list, etc. 
 15. How to install Python on windows and set path variables ?
-Ans :-
+Ans :- Install python using this link https://www.python.org/downloads/ then look for the location where PYTHON has been installed on your PC using following command on your command prompt: cmd python then go to advanced system settings and add new variable and name it as PYTHON_NAME and paste the copied path.
+then look for the path variable, select it's value and select edit add a semicolon towards the end of the value if it's not present and then type %PYTHON_HOME%.
 16. Is indentaion required in Python ?
-Ans :- 
+Ans :- The indentation in Python is very important. Python uses indentation to indicate a block of code.
