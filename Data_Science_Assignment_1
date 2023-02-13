@@ -1,10 +1,32 @@
-Who developed python Programming Language?
+1. Who developed python Programming Language?
 Ans:- It is developed by Guido van Rossum in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.
-Which type of programming does python support?
+2. Which type of programming does python support?
 Ans:- Python supports Object-oriented programming as well as structured programming so that it is called multi-paradigm programming language.
-Is Python case sensitive when dealing with identifiers?
+3. Is Python case sensitive when dealing with identifiers?
 Ans:-Yes,python is case sensitive when dealing with identifiers too.
-What is the correct extension of the Python file ?
+4. What is the correct extension of the Python file ?
 Ans:-Python file extensions are .py .pyi
-Is Python code compiled or iterpreted?
+5. Is Python code compiled or iterpreted?
 Ans:-Python is an interpreted language.
+6. Name a few blocks of code used to define in Python language?
+Ans:- Indentation is used to define a few blocks of code in Python.
+7.State a character is used to give singe line comments in Python?
+Ans :- Hash character(#) can be used to give singe line comments in Python.
+8. Mention functions which can help us to find the version of Python that we are currently working on ?
+Ans :- The function sys. version can help us to find the version of python that we are currently working on.
+9. Python supports the creation of anonymous functions at runtime,using a construct called ?
+Ans :- Python supports the creation of anonymous functions at runtime,using a construct called "lambda" .
+10. What does pip stand for Python?
+Ans :-pip stand for preferred installer program in Python.
+11. Mention a few built-in functions in Python ?
+Ans :- print( ),type( ),input( ) etc.
+12. What is the maximum possible length of an identifier in Python ?
+Ans :- Maximum possible length of an identifier in Python is 75.
+13. What are the benefits of using Python ?
+Ans :- Presence of various modules,Extensive support libraries,Open source,Easy to read, learn and write,High-level language 
+14. How is memory managed in Python ?
+Ans :-
+15. How to install Python on windows and set path variables ?
+Ans :-
+16. Is indentaion required in Python ?
+Ans :- 
